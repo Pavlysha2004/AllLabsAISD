@@ -1,0 +1,4 @@
+﻿  lab3.cpp
+C:\Users\User\Desktop\leti\алгосы\laba1-master\lab3\lab3\Stek.h(36): warning C4715: Stek<NodeThree<int> *>::rec: значение возвращается не при всех путях выполнения
+  LINK : не найден или не выполнена сборка C:\Users\User\Desktop\leti\алгосы\laba1-master\lab3\x64\Debug\lab3.exe при последней инкрементной компоновке; выполняется полная компоновка
+  lab3.vcxproj -> C:\Users\User\Desktop\leti\алгосы\laba1-master\lab3\x64\Debug\lab3.exe
